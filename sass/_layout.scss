@@ -20,6 +20,7 @@
 
 .content {
     display: flex;
+    min-height: 50rem; // Remove!
 }
 
 .sidebar {
@@ -30,7 +31,7 @@
 
 .hotel-view {
     background-color: #fff;
-    background-color: red;
+    background-color: orangered;
 
     flex: 1;
 }
